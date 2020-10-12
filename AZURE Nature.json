@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "AZURE Nature",
+      "message": {
+        "embeds": [
+          {
+            "title": "AZURE Nature | 3D Fantasy | Unity Asset Store",
+            "description": "High-quality and universal asset pack, which will give you great freedom in customizing assets for your game. Freely change colors, add moss, snow, or any other coating on the models using custom shaders. Create scenes of any season: summer, spring, winter or autumn.",
+            "color": 65307,
+            "fields": [
+              {
+                "name": "Check out the link below to find more information:",
+                "value": "https://assetstore.unity.com/packages/3d/environments/fantasy/azure-nature-167725"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Assets",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-12T23:20:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/59c5cb73-7018-4cf4-99f6-fd36e28cfba2.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
